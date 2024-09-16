@@ -13,12 +13,19 @@
 //No terminal, execute: node script.js
 //Você verá a mensagem "Olá, TypeScript!" no terminal.
 
+
+// Inicialização e criação do arquivo tsconfig.json
+//npx tsc --init
+
 // Instale o ts-node:
 // No terminal, execute: npm install --save-dev ts-node
 // Crie um arquivo chamado index.ts.
 
 // Execute o arquivo TypeScript diretamente com o ts-node:
 // npx ts-node index.ts
+
+
+
 
 // Informações básicas para o tsconfig.json:
 
