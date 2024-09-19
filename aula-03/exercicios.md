@@ -19,7 +19,7 @@ pratoPreco: Preço do prato. \
 garcomNome: Nome do garçom. \
 garcomMatricula: Matrícula do garçom. \
 mesa: Número da mesa onde o pedido foi feito. \
-quantidade: Quantidade de pratos pedidos.\
+quantidade: Quantidade de pratos pedidos. \
 
 Métodos: \
 
