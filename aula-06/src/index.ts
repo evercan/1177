@@ -46,7 +46,6 @@ console.log(hilux);
 
 
 
-
 // ferrari.ligar();
 
 // ferrari.acelerar();
